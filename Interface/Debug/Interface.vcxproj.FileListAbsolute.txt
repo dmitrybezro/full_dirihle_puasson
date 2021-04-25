@@ -1,0 +1,3 @@
+D:\Programming\VS\Numerical method\Lab\Interface\Interface\Debug\Interface.vcxprojAssemblyReference.cache
+D:\Programming\VS\Numerical method\Lab\Interface\Interface\Debug\Interface.MyForm.resources
+D:\Programming\VS\Numerical method\Lab\Interface\Interface\Debug\Interface.vcxproj.GenerateResource.cache

@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\Программирование\repos\Interface\Interface\Release\Interface.vcxprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Программирование\repos\Interface\Interface\Release\Interface.MessageBOX.resources
+C:\Users\HOME\Desktop\Программирование\repos\Interface\Interface\Release\Interface.MyForm.resources
+C:\Users\HOME\Desktop\Программирование\repos\Interface\Interface\Release\Interface.vcxproj.GenerateResource.cache
+C:\Users\HOME\Desktop\Программирование\repos\Interface\Interface\Release\Interface.exe
+C:\Users\HOME\source\repos\Interface\Interface\Release\Interface.vcxprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Interface\Interface\Release\Interface.MessageBOX.resources
+C:\Users\HOME\source\repos\Interface\Interface\Release\Interface.MyForm.resources
+C:\Users\HOME\source\repos\Interface\Interface\Release\Interface.vcxproj.GenerateResource.cache
+C:\Users\HOME\source\repos\Interface\Interface\Release\Interface.exe
+D:\Programming\VS\Numerical method\Lab\Interface\Interface\Release\Interface.vcxprojAssemblyReference.cache
+D:\Programming\VS\Numerical method\Lab\Interface\Interface\Release\Interface.MessageBOX.resources
+D:\Programming\VS\Numerical method\Lab\Interface\Interface\Release\Interface.MyForm.resources
+D:\Programming\VS\Numerical method\Lab\Interface\Interface\Release\Interface.vcxproj.GenerateResource.cache
+D:\Programming\VS\Numerical method\Lab\Interface\Interface\Release\Interface.exe

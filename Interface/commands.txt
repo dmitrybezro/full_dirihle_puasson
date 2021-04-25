@@ -1,0 +1,3 @@
+set terminal wxt persist
+set dgrid3d 101 101
+splot 'D:\Programming\VS\Numerical method\Lab\Interface\Interface\Graph.txt' with pm3d title 'kovac'
